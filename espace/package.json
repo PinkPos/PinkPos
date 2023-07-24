@@ -1,0 +1,16 @@
+{
+  "name": "espace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "scripts": {
+    "build": "cfxtruffle compile",
+    "deploy": "cfxtruffle deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3"
+  }
+}
