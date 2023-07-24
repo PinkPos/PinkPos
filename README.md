@@ -3,6 +3,9 @@
 - 🌱 I’m currently building ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Contact us:
+- Telegram: https://t.me/+M1QtrYyt2jBiMDE1
+- 
 
 <!---
 PinkPos/PinkPos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
