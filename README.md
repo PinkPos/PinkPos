@@ -3,9 +3,9 @@
 - 🌱 I’m currently building ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- Join us:
+- Join us: http://pinkpos.xyz
 - Telegram: https://t.me/+M1QtrYyt2jBiMDE1
-- 
+- X: https://twitter.com/PinkPos281824
 
 <!---
 PinkPos/PinkPos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
