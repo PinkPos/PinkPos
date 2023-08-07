@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - Join us: http://pinkpos.xyz
-- Telegram: https://t.me/+M1QtrYyt2jBiMDE1
+- Telegram: https://t.me/pinkpos1
 - X: https://twitter.com/PinkPos281824
 
 <!---
